@@ -1,3 +1,4 @@
+This repo is moved to ADO -https://dev.azure.com/lucidworkflow/LucidHealth/_git/Tavis.HttpCache
 # Tavis.HttpCache
 
 This library is an implementation of a HTTP cache.  It is designed to be plugged into the System.Net.Http.HttpClient class as a message handler.
